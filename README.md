@@ -1,1 +1,1 @@
-# e-commerce-store
+This project showcases the frontend development of a fully responsive e-commerce store. Built using HTML, CSS, and JavaScript, it features a user-friendly interface with interactive product listings, a shopping cart, and a seamless checkout experience. The design is fully responsive, ensuring optimal user experience across desktop and mobile devices. Key features include product detail pages, and an interactive cart system. This project demonstrates proficiency in frontend technologies and modern web design principles
